@@ -8,6 +8,8 @@ The player can turn off debug information for the duration of the game session a
 
 Console commands available via `/lra`
 
+[Changelog](CHANGELOG.md)
+
 ---
 
 ### Installation:
