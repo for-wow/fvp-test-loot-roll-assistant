@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: FVP_TEST_LootRollAssistant |cFFFFFFFFv0.7|r
+## Notes: The addon is specially designed for the Vanilla Plus server. Allows you to set automatic action selection (need/greed/pass) for selected items.
+## Author: 
+## Version: 0.7
+## SavedVariablesPerCharacter: LRA_SETTINGS, SVC_LRA_ITEMS
+
+FVP_TEST_LootRollAssistant.lua
